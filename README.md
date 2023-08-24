@@ -19,7 +19,7 @@ Este clasificador de texto es un sencillo modelo que sirve como herramienta para
 
 2. **App**: La aplicacion se basa en el framework Flask de python. Basicamente la aplicación web toma un archivo CSV con comentarios, los analiza y los clasifica utilizando un modelo previamente entrenado. Luego, muestra los resultados a través de una interfaz web, presentando el archivo subido y un gráfico de pastel que ilustra las categorías en las que se clasifican los comentarios.
 
-## Cómo Utilizar
+## Cómo Utilizar    
 
 1. Carga el archivo .csv con las frases / comentarios.
 2. Haz clic en el botón "Clasificar Comentario".
